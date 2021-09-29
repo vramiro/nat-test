@@ -2,7 +2,7 @@
 
 Simple NAT test available at
 
-ahttps://vramiro.github.io/nat-test/
+https://vramiro.github.io/nat-test/
 
 Code based on
 
